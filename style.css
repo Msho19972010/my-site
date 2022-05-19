@@ -143,6 +143,14 @@ body {
   background-image: url("img/icon-css.svg");
 }
 
+.skill-JS {
+  background-image: url("/img/icons8-javascript.svg");
+}
+
+.skill-PHP {
+  background-image: url("/img/icons8-логотип-php.svg");
+}
+
 .level {
   margin: 4px 0 16px;
   padding: 0;
@@ -335,6 +343,14 @@ body {
 
 .light-theme .skill-css {
   background-image: url("img/icon-css-light.svg");
+}
+
+.light-theme .skill-JS {
+  background-image: url("/img/icons8-javascript.svg");
+}
+
+.light-theme .skill-PHP {
+  background-image: url("/img/icons8-логотип-php.svg");
 }
 
 .light-theme .level {
