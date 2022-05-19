@@ -143,12 +143,12 @@ body {
   background-image: url("img/icon-css.svg");
 }
 
-.skill-JS {
-  background-image: url("/img/icons8-javascript.svg");
+.skill-js {
+  background-image: url("img/icons8-javascript.svg");
 }
 
-.skill-PHP {
-  background-image: url("/img/icons8-логотип-php.svg");
+.skill-php {
+  background-image: url("img/icons8-логотип-php.svg");
 }
 
 .level {
