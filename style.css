@@ -135,6 +135,10 @@ body {
   background-position: left;
 }
 
+.skill-java {
+  background-image: url("img/java-svgrepo-com.svg");
+}
+
 .skill-html {
   background-image: url("img/icon-html.svg");
 }
